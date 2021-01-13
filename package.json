@@ -1,0 +1,23 @@
+{
+  "name": "2hats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fit2lifegao/worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fit2lifegao/worker/issues"
+  },
+  "homepage": "https://github.com/fit2lifegao/worker#readme",
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "lodash": "^4.17.20"
+  }
+}
